@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-slider-mini-project/static/css/main.5ef2abf4.css",
+    "main.js": "/image-slider-mini-project/static/js/main.7c8bad1e.js",
+    "index.html": "/image-slider-mini-project/index.html",
+    "main.5ef2abf4.css.map": "/image-slider-mini-project/static/css/main.5ef2abf4.css.map",
+    "main.7c8bad1e.js.map": "/image-slider-mini-project/static/js/main.7c8bad1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ef2abf4.css",
+    "static/js/main.7c8bad1e.js"
+  ]
+}
